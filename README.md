@@ -1,3 +1,3 @@
 # BotGame
 
-//Python based
+AirCanvas for free hand drawing opencv-python
